@@ -4,7 +4,7 @@ Steam판 「연애 0킬로미터」(恋愛0キロメートル / Ren'ai 0 Kilomet
 
 ## 다운로드
 
-**[한글패치 전체 설치 파일 받기 (1.0.0, 약 1.0GB)](https://github.com/adios1579-lgtm/Renai0Kilometer-Korean-Patch/releases/download/v1.0.0/Renai0Kilometer_Korean_Patch_1.0.0.zip)**
+**[한글패치 전체 설치 파일 받기 (1.0.1, 약 1.0GB)](https://github.com/adios1579-lgtm/Renai0Kilometer-Korean-Patch/releases/download/v1.0.1/Renai0Kilometer_Korean_Patch_1.0.1.zip)**
 
 처음 설치할 때는 위 파일 하나만 받으면 됩니다. 이후 수정 사항은 게임을 실행할 때 자동으로 안내됩니다. GitHub의 Source code 파일은 설치용 패치가 아닙니다.
 
@@ -14,7 +14,7 @@ Steam판 「연애 0킬로미터」(恋愛0キロメートル / Ren'ai 0 Kilomet
 
 1. 게임을 종료합니다.
 2. 받은 ZIP의 내용물을 **게임 폴더(`renzero.exe`가 있는 곳)** 에 그대로 풉니다. `data` 폴더는 기존 폴더와 합쳐 주세요.
-3. **`연애0킬로미터_한글판.exe`** 로 실행합니다.
+3. **`연애0킬로미터_한글판.exe`** 로 실행합니다. 실행할 파일은 이것 하나입니다.
 4. 새 업데이트 안내가 나오면 동의해서 최신 버전으로 업데이트하면 됩니다.
 
 원본 `renzero.exe`, `data/data_00.pcarc`, `steam_api64.dll`은 지우거나 이름을 바꾸지 마세요.
@@ -29,7 +29,7 @@ Steam판 「연애 0킬로미터」(恋愛0キロメートル / Ren'ai 0 Kilomet
 
 ## 업데이트
 
-`연애0킬로미터_한글판.exe`는 실행할 때 새 버전을 확인하고 업데이트할지 묻습니다. 게임을 켜지 않고 확인하려면 `한글패치_업데이트.exe`를 사용하세요.
+`연애0킬로미터_한글판.exe`는 실행할 때 새 버전을 확인하고 업데이트할지 묻습니다. 게임을 켜지 않고 확인하려면 `updates` 폴더의 `한글패치_업데이트.exe`를 사용하세요.
 
 인터넷이 없거나 업데이트 서버에 연결하지 못하면 확인만 건너뛰고 현재 버전으로 게임을 실행합니다. 업데이트는 한글패치가 넣은 파일만 바꾸며 세이브·설정·감상 기록은 그대로 둡니다.
 
